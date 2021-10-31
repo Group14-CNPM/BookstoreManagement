@@ -9,7 +9,7 @@ Participants:
 
 Task management table: [here](https://trello.com/b/hMML2tfA/project-plan) 
 
-UI / UX prototype: [here](https://www.figma.com/community/file/1017274846862703022) [Update later]
+UI / UX prototype: [here](https://www.figma.com/file/RZco5bEaJyIyanJOu9YRNE/Untitled?node-id=0%3A1) 
 
 Tech stacks: [update later]
 
